@@ -8,6 +8,13 @@
       "when": 1752069641905,
       "tag": "0000_productive_living_mummy",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752189637038,
+      "tag": "0001_open_talisman",
+      "breakpoints": true
     }
   ]
 }
