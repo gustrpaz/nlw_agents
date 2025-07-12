@@ -21,7 +21,7 @@ export const createRoomRoute: FastifyPluginCallbackZod = (app) => {
         .insert(schema.rooms)
         .values({
           name,
-          description: description,
+          description,
         })
         .returning();
 
