@@ -15,6 +15,13 @@
       "when": 1752189637038,
       "tag": "0001_open_talisman",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752329723503,
+      "tag": "0002_chunky_the_call",
+      "breakpoints": true
     }
   ]
 }
