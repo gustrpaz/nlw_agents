@@ -1,5 +1,4 @@
-# 🧠 AI Transcriber App
-
+# 🧠 Let me Ask
 Uma aplicação full-stack que utiliza Inteligência Artificial para transcrever áudios (como de lives ou aulas) e permite que usuários façam perguntas com base no conteúdo transcrito.
 
 ## 🚀 Funcionalidades
